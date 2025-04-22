@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "vscode.html-language-features",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "html.format.preserveNewLines": true,
+  "html.format.maxPreserveNewLines": 2,
+  "html.format.wrapAttributes": "force-aligned",
+  "html.format.unformatted": "",
+  "html.format.indentInnerHtml": true,
+  "html.format.extraLiners": "head, body, /html"
+}
